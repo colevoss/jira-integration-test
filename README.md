@@ -2,3 +2,7 @@
 This is my repo for setting up some test jira integrations.
 
 [My Jira Board](https://vossco.atlassian.net)
+
+#### Integration Steps:
+1. Add OAuth application to git hub settings
+2. Add DVCS add-on in Jira
