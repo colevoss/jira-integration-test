@@ -6,3 +6,7 @@ This is my repo for setting up some test jira integrations.
 #### Integration Steps:
 1. Add OAuth application to git hub settings
 2. Add DVCS add-on in Jira
+
+#### Workflow Steps:
+_todo: add some steps to this_
+_this is to test multiple ticket commit messages_
